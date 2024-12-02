@@ -45,6 +45,6 @@ module l0 (clk, in, out, rd, wr, o_full, reset, o_ready);
    		else begin
 				rd_en <= {rd_en[5:0], rd_sc};
 			end
-    end
+  end
 
 endmodule
