@@ -1,5 +1,3 @@
-// Created by prof. Mingu Kang @VVIP Lab in UCSD ECE department
-// Please do not spread this code without permission 
 module l0 (clk, in, out, rd, wr, o_full, reset, o_ready);
 
 	parameter row  = 8;
@@ -17,6 +15,9 @@ module l0 (clk, in, out, rd, wr, o_full, reset, o_ready);
 	wire [row-1:0] empty;
 	wire [row-1:0] full;
 	reg [row-1:0] rd_en;
+
+	wire [1:0] rd_sc;
+	assign rd_sc= rd ? 2'b11:2'b00;
   
 	genvar i;
 
@@ -42,8 +43,8 @@ module l0 (clk, in, out, rd, wr, o_full, reset, o_ready);
 				rd_en <= 8'b00000000;
    		end
    		else begin
-				rd_en <= {rd_en[6:0], rd};
+				rd_en <= {rd_en[5:0], rd_sc};
 			end
-    end
+    end
 
 endmodule
