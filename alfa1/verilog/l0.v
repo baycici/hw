@@ -35,8 +35,7 @@ module l0 (clk, in, out, rd, wr, o_full, reset, o_ready);
 	 		.in(in[bw*(i+1)-1:bw*i]),
 	 		.out(out[bw*(i+1)-1:bw*i]),
 			.reset(reset)
-		);
-  	end
+		);end
 
   	always @ (posedge clk) begin
    		if (reset) begin
