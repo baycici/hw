@@ -1,0 +1,128 @@
+VCD info: dumpfile sram_tb.vcd opened for output.
+ 0-th written data is 202090a0
+ 1-th written data is 20205070
+ 2-th written data is 20100360
+ 3-th written data is 00000000
+ 4-th written data is 00000000
+ 5-th written data is 1000d0c0
+ 6-th written data is 201060f0
+ 7-th written data is 2010b1f0
+ 8-th written data is 2021e2e0
+ 9-th written data is 2021b0a0
+10-th written data is 10206060
+11-th written data is 10204060
+12-th written data is 10204050
+13-th written data is 10204040
+14-th written data is 10203140
+15-th written data is 10100540
+16-th written data is 10010190
+17-th written data is 10006090
+18-th written data is 100050e0
+19-th written data is 101040f0
+20-th written data is 201080f0
+21-th written data is 2020d0f0
+22-th written data is 2020b2d0
+23-th written data is 202097b0
+24-th written data is 20106580
+25-th written data is 10003050
+26-th written data is 10002010
+27-th written data is 10002000
+28-th written data is 20004010
+29-th written data is 20106040
+30-th written data is 20105070
+31-th written data is 2010a0a0
+32-th written data is 2020f3c0
+33-th written data is 3020f5a0
+34-th written data is 2020a180
+35-th written data is 20205050
+36-th written data is 20100360
+37-th written data is 00000000
+38-th written data is 00000000
+39-th written data is 1000a0d0
+40-th written data is 100030f0
+41-th written data is 2010c0e0
+42-th written data is 3030f6c0
+43-th written data is 2021f4a0
+44-th written data is 20208070
+45-th written data is 10204060
+46-th written data is 10204070
+47-th written data is 10204060
+48-th written data is 10204080
+49-th written data is 101000a0
+50-th written data is 101000d0
+51-th written data is 201060c0
+52-th written data is 101050d0
+53-th written data is 101040b0
+54-th written data is 20206090
+55-th written data is 20206190
+56-th written data is 20207160
+57-th written data is 20106740
+58-th written data is 20105640
+59-th written data is 10001020
+60-th written data is 10001020
+61-th written data is 10003010
+62-th written data is 20006020
+ 0-th read data is 202090a0 --- Data matched
+ 1-th read data is 20205070 --- Data matched
+ 2-th read data is 20100360 --- Data matched
+ 3-th read data is 00000000 --- Data matched
+ 4-th read data is 00000000 --- Data matched
+ 5-th read data is 1000d0c0 --- Data matched
+ 6-th read data is 201060f0 --- Data matched
+ 7-th read data is 2010b1f0 --- Data matched
+ 8-th read data is 2021e2e0 --- Data matched
+ 9-th read data is 2021b0a0 --- Data matched
+10-th read data is 10206060 --- Data matched
+11-th read data is 10204060 --- Data matched
+12-th read data is 10204050 --- Data matched
+13-th read data is 10204040 --- Data matched
+14-th read data is 10203140 --- Data matched
+15-th read data is 10100540 --- Data matched
+16-th read data is 10010190 --- Data matched
+17-th read data is 10006090 --- Data matched
+18-th read data is 100050e0 --- Data matched
+19-th read data is 101040f0 --- Data matched
+20-th read data is 201080f0 --- Data matched
+21-th read data is 2020d0f0 --- Data matched
+22-th read data is 2020b2d0 --- Data matched
+23-th read data is 202097b0 --- Data matched
+24-th read data is 20106580 --- Data matched
+25-th read data is 10003050 --- Data matched
+26-th read data is 10002010 --- Data matched
+27-th read data is 10002000 --- Data matched
+28-th read data is 20004010 --- Data matched
+29-th read data is 20106040 --- Data matched
+30-th read data is 20105070 --- Data matched
+31-th read data is 2010a0a0 --- Data matched
+32-th read data is 2020f3c0 --- Data matched
+33-th read data is 3020f5a0 --- Data matched
+34-th read data is 2020a180 --- Data matched
+35-th read data is 20205050 --- Data matched
+36-th read data is 20100360 --- Data matched
+37-th read data is 00000000 --- Data matched
+38-th read data is 00000000 --- Data matched
+39-th read data is 1000a0d0 --- Data matched
+40-th read data is 100030f0 --- Data matched
+41-th read data is 2010c0e0 --- Data matched
+42-th read data is 3030f6c0 --- Data matched
+43-th read data is 2021f4a0 --- Data matched
+44-th read data is 20208070 --- Data matched
+45-th read data is 10204060 --- Data matched
+46-th read data is 10204070 --- Data matched
+47-th read data is 10204060 --- Data matched
+48-th read data is 10204080 --- Data matched
+49-th read data is 101000a0 --- Data matched
+50-th read data is 101000d0 --- Data matched
+51-th read data is 201060c0 --- Data matched
+52-th read data is 101050d0 --- Data matched
+53-th read data is 101040b0 --- Data matched
+54-th read data is 20206090 --- Data matched
+55-th read data is 20206190 --- Data matched
+56-th read data is 20207160 --- Data matched
+57-th read data is 20106740 --- Data matched
+58-th read data is 20105640 --- Data matched
+59-th read data is 10001020 --- Data matched
+60-th read data is 10001020 --- Data matched
+61-th read data is 10003010 --- Data matched
+62-th read data is 20006020 --- Data matched
+###### Total  0 errors are detected ######
